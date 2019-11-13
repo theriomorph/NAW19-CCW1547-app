@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="DELETE">
+        <sp_dependency display_value="angular-tooltips-1.1.8">e28f735523311300ab65ff5e17bf651d</sp_dependency>
+        <sp_widget display_value="Peer Feedback">2f1bff02180140107f44e5e965444426</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 03:29:09</sys_created_on>
+        <sys_id>0ecbb7c2180140107f44e5e9654444b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>angular-tooltips-1.1.8.Peer Feedback</sys_name>
+        <sys_package display_value="Peer Review" source="x_274523_peer_revi">0128d8281b277b0090824196bc4bcbd2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_0ecbb7c2180140107f44e5e9654444b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 03:29:09</sys_updated_on>
+    </m2m_sp_widget_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</application>
+        <file_path/>
+        <instance_id>4a33a979db0988904f246693ca9619bb</instance_id>
+        <instance_name>now1548-syd-069</instance_name>
+        <name>m2m_sp_widget_dependency_0ecbb7c2180140107f44e5e9654444b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency"><m2m_sp_widget_dependency action="INSERT_OR_UPDATE"><sp_dependency display_value="angular-tooltips-1.1.8">e28f735523311300ab65ff5e17bf651d</sp_dependency><sp_widget display_value="Peer Feedback">2f1bff02180140107f44e5e965444426</sp_widget><sys_class_name>m2m_sp_widget_dependency</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-13 03:29:09</sys_created_on><sys_id>0ecbb7c2180140107f44e5e9654444b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>angular-tooltips-1.1.8.Peer Feedback</sys_name><sys_package display_value="Peer Review" source="x_274523_peer_revi">0128d8281b277b0090824196bc4bcbd2</sys_package><sys_policy/><sys_scope display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</sys_scope><sys_update_name>m2m_sp_widget_dependency_0ecbb7c2180140107f44e5e9654444b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-13 03:29:09</sys_updated_on></m2m_sp_widget_dependency></record_update>]]></payload>
+        <payload_hash>1765428274</payload_hash>
+        <record_name>angular-tooltips-1.1.8.Peer Feedback</record_name>
+        <reverted_from/>
+        <source>1c2a3f02180140107f44e5e9654444fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 03:29:09</sys_created_on>
+        <sys_id>c2cbb7c2180140107f44e5e9654444b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e62cec9ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 03:29:09</sys_updated_on>
+        <type>Widget Dependency</type>
+        <update_guid>0ecbb7c297014010cbc9c1f0913006b6</update_guid>
+        <update_guid_history>0ecbb7c297014010cbc9c1f0913006b6:1765428274</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="angular-tooltips-1.1.8.Peer Feedback">270c7bc2180140107f44e5e965444481</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 03:30:20</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_widget_dependency">m2m_sp_widget_dependency</sys_db_object>
+        <sys_id>03a1b535fdd14b8881f33eba5df77f89</sys_id>
+        <sys_metadata>0ecbb7c2180140107f44e5e9654444b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>angular-tooltips-1.1.8.Peer Feedback</sys_name>
+        <sys_package display_value="Peer Review" source="x_274523_peer_revi">0128d8281b277b0090824196bc4bcbd2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</sys_scope>
+        <sys_scope_delete display_value="">75b228cfe50344c39da8c0633f7d4929</sys_scope_delete>
+        <sys_update_name>m2m_sp_widget_dependency_0ecbb7c2180140107f44e5e9654444b4</sys_update_name>
+        <sys_update_version display_value="m2m_sp_widget_dependency_0ecbb7c2180140107f44e5e9654444b4">c2cbb7c2180140107f44e5e9654444b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 03:30:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
